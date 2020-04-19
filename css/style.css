@@ -721,7 +721,7 @@ INner Pages
 #aboutflip {
   position: relative;
   padding-bottom: 85px;
-  text-align:right;
+  left: -40px;
 }
 
 .about-bg-img2 {
