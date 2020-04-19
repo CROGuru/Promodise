@@ -721,7 +721,6 @@ INner Pages
 #aboutflip {
   position: relative;
   padding-bottom: 85px;
-  left: 50%;
 }
 
 .about-bg-img2 {
@@ -738,6 +737,7 @@ INner Pages
 
 .about-content {
   margin-top: 94px;
+  left: 50%;
 }
 
 .about-content .subtitle {
@@ -751,6 +751,7 @@ INner Pages
 
 .about-list {
   margin-top: 30px;
+  left: 50%;
 }
 
 .about-list li {
