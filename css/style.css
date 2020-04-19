@@ -565,19 +565,19 @@ h5.subtitle {
 }
 
 .banner-1 {
-  background: url("../images/banner/bg-2.jpg");
+  background: #312e6d;
   background-size: cover;
   position: relative;
 }
 
 .banner-2 {
-  background: url("../images/banner/slider-3.jpg");
+  background: #312e6d;
   background-size: cover;
   position: relative;
 }
 
 .banner-3 {
-  background: #635cdb;
+  background: #312e6d;
   background-size: cover;
   position: relative;
 }
