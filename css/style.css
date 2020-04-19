@@ -577,7 +577,7 @@ h5.subtitle {
 }
 
 .banner-3 {
-  background: url("../images/banner/banner-bg.jpg");
+  background: #635cdb;
   background-size: cover;
   position: relative;
 }
