@@ -724,8 +724,8 @@ INner Pages
 }
 
 .about-bg-img2 {
-  position: left;
-  right: 0px;
+  position: relative;
+  left: 0px;
   content: "";
   background: url("../images/banner/1.jpg") 50% 50%;
   width: 40%;
