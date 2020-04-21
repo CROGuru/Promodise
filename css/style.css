@@ -1430,6 +1430,10 @@ BLOG SINGLE
   background: #302f6d;
 }
 
+.bg-pricing {
+	background:#fff;
+}
+
 .footer-widget a {
   color: #999;
 }
