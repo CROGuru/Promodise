@@ -508,12 +508,8 @@ h5.subtitle {
  BANNER AREA
 ----------------------------------*/
 .banner-area .content-padding {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  min-height: 100vh;
+    position: absolute;
+    top: 40%;
 }
 
 .content-padding {
