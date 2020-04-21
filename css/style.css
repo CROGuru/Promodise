@@ -324,10 +324,6 @@ h5.subtitle {
   opacity: .97;
 }
 
-.gr-overlay {
-  background: linear-gradient(135deg, #2f1ce0 0%, #53a0fd 30%, #51eca5 100%);
-  opacity: .87;
-}
 
 /* ========================
 
@@ -513,7 +509,7 @@ h5.subtitle {
   justify-content: center;
   align-items: center;
   text-align: center;
-  min-height: 90vh;
+  min-height: 80vh;
 }
 
 .content-padding {
@@ -700,7 +696,7 @@ INner Pages
   float: left;
   margin-bottom: 15px;
   margin-right: 15px;
-  color: #fff;
+  color: #888;
 }
 
 .about-list li i {
