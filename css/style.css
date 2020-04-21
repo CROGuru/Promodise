@@ -312,6 +312,8 @@ h5.subtitle {
   vertical-align: middle;
 }
 
+.bg-pricing {
+	background:#fff;
 }
 
 .brown-overlay {
@@ -1428,10 +1430,6 @@ BLOG SINGLE
 
 .bg-main {
   background: #302f6d;
-}
-
-.bg-pricing {
-	background:#fff;
 }
 
 .footer-widget a {
