@@ -297,7 +297,7 @@ h5.subtitle {
 }
 
 .bg-gray {
-  background-color: #fff;
+  background-color: #f2f4ec;
 }
 
 .bg-white {
@@ -700,7 +700,7 @@ INner Pages
   float: left;
   margin-bottom: 15px;
   margin-right: 15px;
-  color: #888;
+  color: #fff;
 }
 
 .about-list li i {
