@@ -79,7 +79,7 @@ img {
 }
 
 a:hover {
-  color: #635CDB;
+  color: #302f6d;
   text-decoration: none;
 }
 
@@ -124,7 +124,7 @@ h6 {
 }
 
 .f-color {
-  color: #635CDB;
+  color: #302f6d;
 }
 
 h5.subtitle {
@@ -162,7 +162,7 @@ h5.subtitle {
 }
 
 .section-title span {
-  color: #635CDB;
+  color: #302f6d;
 }
 
 .section {
@@ -171,7 +171,7 @@ h5.subtitle {
 
 .line {
   width: 50px;
-  background: #635CDB;
+  background: #302f6d;
   height: 1px;
   margin: 10px auto;
 }
@@ -200,7 +200,7 @@ h5.subtitle {
 .btn-hero,
 .btn-white:hover {
   color: #fff !important;
-  background: #635CDB;
+  background: #302f6d;
 }
 
 .btn-hero:focus {
@@ -215,7 +215,7 @@ h5.subtitle {
 
 .btn-black:hover {
   color: #fff;
-  background: #635CDB;
+  background: #302f6d;
 }
 
 .btn-black:focus {
@@ -275,7 +275,7 @@ h5.subtitle {
 }
 
 .btn-trans-black:hover {
-  background: #635CDB !important;
+  background: #302f6d !important;
 }
 
 /*---------- COLORS ----------*/
@@ -312,13 +312,6 @@ h5.subtitle {
   vertical-align: middle;
 }
 
-.overlay {
-  position: absolute;
-  top: 0px;
-  left: 0px;
-  width: 100%;
-  height: 100%;
-  background: rgba(0, 0, 0, 0.5);
 }
 
 .brown-overlay {
@@ -327,7 +320,7 @@ h5.subtitle {
 }
 
 .feature-overlay {
-  background: #635CDB;
+  background: #302f6d;
   opacity: .97;
 }
 
@@ -421,7 +414,7 @@ h5.subtitle {
 }
 
 .trans-navigation.header-white .navbar-nav a.active {
-  color: #635CDB;
+  color: #302f6d;
 }
 
 .navbar-brand img {
@@ -429,7 +422,7 @@ h5.subtitle {
 }
 
 .trans-navigation.header-white .btn-white {
-  background: #635CDB;
+  background: #302f6d;
   color: #fff;
 }
 
@@ -461,7 +454,7 @@ h5.subtitle {
 .dropdown-item:hover {
   color: #fff;
   text-decoration: none;
-  background-color: #635CDB;
+  background-color: #302f6d;
 }
 
 .dropdown-toggle::after {
@@ -538,7 +531,7 @@ h5.subtitle {
 
 .banner-content .subtitle {
   color: #fff;
-  background: #635CDB;
+  background: #302f6d;
   display: inline-block;
   padding: 3px 8px;
   margin-bottom: 20px;
@@ -546,7 +539,7 @@ h5.subtitle {
 }
 
 .subtitle {
-  color: #635CDB;
+  color: #302f6d;
 }
 
 .banner-content p {
@@ -565,19 +558,19 @@ h5.subtitle {
 }
 
 .banner-1 {
-  background: #635CDB;
+  background: #302f6d;
   background-size: cover;
   position: relative;
 }
 
 .banner-2 {
-  background: #635CDB;
+  background: #302f6d;
   background-size: cover;
   position: relative;
 }
 
 .banner-3 {
-  background: #635CDB;
+  background: #302f6d;
   background-size: cover;
   position: relative;
 }
@@ -596,7 +589,7 @@ INner Pages
 }
 
 .page-banner-area {
-  background: #635CDB no-repeat 50% 50%;
+  background: #302f6d no-repeat 50% 50%;
   background-size: cover;
 }
 
@@ -643,7 +636,7 @@ INner Pages
 
 .intro-box span {
   font-size: 28px;
-  color: #635CDB;
+  color: #302f6d;
 }
 
 .intro-cta {
@@ -769,7 +762,7 @@ ABOUT PAGE
 -------------------------*/
 .about-list2 li i {
   margin-right: 10px;
-  color: #635CDB;
+  color: #302f6d;
 }
 
 .icon-3x {
@@ -777,7 +770,7 @@ ABOUT PAGE
 }
 
 .text-default {
-  color: #635CDB;
+  color: #302f6d;
 }
 
 .team-social li a {
@@ -818,7 +811,7 @@ HISTORY MISSION
 
 .strategy-text span {
   font-size: 61px;
-  color: #635CDB;
+  color: #302f6d;
   margin-bottom: 15px;
   display: block;
 }
@@ -832,7 +825,7 @@ HISTORY MISSION
   font-weight: 700;
   line-height: 70px;
   margin: 10px 0px;
-  color: #635CDB;
+  color: #302f6d;
 }
 
 .counter-stat i {
@@ -868,7 +861,7 @@ HISTORY MISSION
   SERVICE AREA SECTION
 ----------------------*/
 .page-banner-area.page-service {
-  background: #635cdb;
+  background: #302f6d;
   background-size: cover;
 }
 
@@ -899,7 +892,7 @@ HISTORY MISSION
   margin: 0 auto;
   border-radius: 100%;
   margin-bottom: 20px;
-  background: #635CDB;
+  background: #302f6d;
   border: 1px solid rgba(255, 255, 255, 0.2);
   color: #fff;
 }
@@ -924,7 +917,7 @@ HISTORY MISSION
 }
 
 .service-inner span {
-  color: #635CDB;
+  color: #302f6d;
 }
 
 /* ================================
@@ -1006,7 +999,7 @@ SERVICE PAGE
   display: inline-block;
   border-radius: 100%;
   transition: all .3s ease 0s;
-  color: #635CDB;
+  color: #302f6d;
   border: 1px solid #eee;
 }
 
@@ -1107,7 +1100,7 @@ PRICING PAGE
 }
 
 .carousel-indicators li.active {
-  background: #635CDB;
+  background: #302f6d;
 }
 
 .testimonial-content {
@@ -1157,7 +1150,7 @@ PRICING PAGE
 }
 
 .text-color {
-  color: #635CDB;
+  color: #302f6d;
 }
 
 input[type=text], input[type=email] {
@@ -1256,7 +1249,7 @@ input[type=text], input[type=email] {
 
 .blog-block .read-more,
 .blog-block span {
-  color: #635CDB;
+  color: #302f6d;
 }
 
 /* =================================
@@ -1300,7 +1293,7 @@ BLOG PAGE
   left: 0px;
   top: 0px;
   font-family: "Font Awesome 5 Free";
-  color: #635CDB;
+  color: #302f6d;
   font-weight: 900;
 }
 
@@ -1319,7 +1312,7 @@ BLOG PAGE
   top: 0px;
   margin-right: 35px;
   margin-top: 15px;
-  color: #635CDB;
+  color: #302f6d;
 }
 
 .download a {
@@ -1332,7 +1325,7 @@ BLOG PAGE
 
 .download a i {
   margin-right: 15px;
-  color: #635CDB;
+  color: #302f6d;
 }
 
 /* ==================================
@@ -1382,7 +1375,7 @@ BLOG SINGLE
 }
 
 .footer-widget h4 span {
-  color: #635CDB;
+  color: #302f6d;
   display: block;
   font-size: 60px;
   line-height: 60px;
@@ -1426,7 +1419,7 @@ BLOG SINGLE
 }
 
 .footer-text p.mail {
-  color: #635CDB;
+  color: #302f6d;
 }
 
 .bg-main {
