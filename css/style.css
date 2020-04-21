@@ -588,6 +588,7 @@ INner Pages
 #page-banner {
   position: relative;
   padding: 60px 0px 80px;
+  height:100%;
 }
 
 .page-banner-area {
