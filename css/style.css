@@ -582,7 +582,6 @@ h5.subtitle {
 .bannerimg {
 	background-image: url("../images/banner/Freecall.png");
 	position:relative
-	top:50%;
 	z-index:4;
 }
 
