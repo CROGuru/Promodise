@@ -666,7 +666,7 @@ INner Pages
 }
 
 .section-pb {
-  padding-bottom: 90px;
+  padding-bottom: 00px;
 }
 
 #about {
@@ -678,7 +678,7 @@ INner Pages
   position: absolute;
   right: 0px;
   content: "";
-  background: url("../images/banner/Rocketship.png") 50% 50%;
+  background: url("../images/banner/Rockship 2.png") 50% 50%;
   width: 40%;
   height: 100%;
   max-height: 560px;
