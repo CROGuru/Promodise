@@ -584,6 +584,7 @@ h5.subtitle {
 	position:relative
 	z-index:4;
 	overflow: auto;
+	width:100%;
 }
 
 .section-heading h2 {
