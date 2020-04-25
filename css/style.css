@@ -1062,9 +1062,9 @@
 
 	.pricing-block:hover,
 	.pricing-block.active {
-	  background: ##fdc774;
-	  box-shadow: 0 2px 48px 0 rgba(253, 199, 116);
-	  border: 1px solid #fdc774;		
+	  background: ##fff;
+	  box-shadow: 0 2px 48px 0 rgba(255, 255, 255);
+	  border: 1px solid #fff;		
 	}
 
 	#pricing .section-heading {
