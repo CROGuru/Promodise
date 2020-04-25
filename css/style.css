@@ -739,7 +739,7 @@ INner Pages
 
 .about-bg-img2 {
   position: absolute;
-  left: 0px;
+  left: 400px;
   content: "";
   background: url("../images/banner/Checkout.png") 50% 50% no-repeat;
   width: 40%;
