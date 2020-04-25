@@ -19,6 +19,7 @@ Version      : 1.0
 * 07.AVAILABLE CSS STYLE
 * 08.CONTACT CSS STYLE
 * 09.FOOTER CSS STYLE
+* 10.CUSTOM CSS STYLES 
 * ----------------------------------------------------------------------------------------
 */
 /*
@@ -157,6 +158,7 @@ h5.subtitle {
 .section-title {
   font-size: 32px;
   line-height: 38px;
+  margin-top: 8px;
   margin-bottom: 15px;
   text-transform: capitalize;
 }
@@ -530,6 +532,9 @@ h5.subtitle {
   color: #fff;
   font-weight: 700;
   line-height: 50px;
+  /* width: 725px; */
+  /* font-size: 40px; */
+  height: 90px;
 }
 
 .banner-content .subtitle {
@@ -580,12 +585,14 @@ h5.subtitle {
 }
 
 .bannerimg {
-	background-image: url("../images/banner/Freecall.png");
-	position:relative
+	/* background: url("../images/banner/Freecall.png") no-repeat 200px 0%; */
+	/* position:relative */
 	z-index: 100%;
-	overflow: auto;
-	width:100%;
-	height:100%;
+  overflow: auto;
+  margin-top:5px;
+	width:250px;
+  height:110px;
+  margin-left:210px;
 }
 
 .section-heading h2 {
@@ -1754,5 +1761,56 @@ BLOG SINGLE
     margin-bottom: 30px;
   }
 }
+/*--------------------------------
+ CUSTOM CSS
+-----------------------------*/
+ /*----------------
+     Typed CSS
+    ----------------*/
+    .typed::after {
+      content: '|';
+      display: inline;
+      -webkit-animation: blink 0.7s infinite;
+      -moz-animation: blink 0.7s infinite;
+      animation: blink 0.7s infinite;
+  }
+  /*Removes cursor that comes with typed.js*/
+    .typed-cursor{
+      opacity: 0;
+      display: none;
+    }
 
+  /*Custom cursor animation*/
+    @keyframes blink{
+      0% { opacity:1; }
+      50% { opacity:0; }
+      100% { opacity:1; }
+    }
+    @-webkit-keyframes blink{
+      0% { opacity:1; }
+      50% { opacity:0; }
+      100% { opacity:1; }
+    }
+    @-moz-keyframes blink{
+      0% { opacity:1; }
+      50% { opacity:0; }
+      100% { opacity:1; }
+    }
+ /*----------------
+     Scroll Down Button CSS
+    ----------------*/
+    .ct-btn-scroll {
+      width: 49px;
+      height: 49px;
+      position: absolute;
+      bottom: 30px;
+      left: 0;
+      right: 22px;
+      margin: 0 auto;
+      padding-top: 500px;
+      z-index: 9;
+      border-radius: 50%;
+      -webkit-transition: background-color 0.25s ease-in-out;
+      transition: background-color 0.25s ease-in-out;
+    }
 /*# sourceMappingURL=maps/style.css.map */
