@@ -589,10 +589,9 @@ h5.subtitle {
 	/* position:relative */
 	z-index: 100%;
   overflow: auto;
-  margin-top:5px;
 	width:340px;
   height:150px;
-  margin-left:270px;
+  margin-left:320px;
 }
 
 .section-heading h2 {
