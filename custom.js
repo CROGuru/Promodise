@@ -51,9 +51,6 @@
         } else {
             $('.site-navigation,.trans-navigation').removeClass('header-white');
         }
-
-
-
     });
 
 
@@ -67,9 +64,39 @@
     });
 
 
+    /* ==========================================================================
+      Typed js
+ ========================================================================== */
 
+    $(function(){
+      var typed = new Typed('.typed', {
+        strings: ["Online Business", "Data Analytics", "Customer Experience"],
+        typeSpeed: 38,
+        startDelay: 1200,
+        backSpeed: 38,
+        backDelay: 500,
+        loop: true,
+        loopCount: 5,
+        showCursor: false,
+        cursorChar: "|"
+      });
+    });  
 
+    /* ==========================================================================
+      ScrollDown 
+ ========================================================================== */
 
+      $("a").on('click', function(event) {
+        if (this.hash !== "") {
+          event.preventDefault();
+          var hash = this.hash;
+          $('html, body').animate({
+            scrollTop: $(hash).offset().top
+          }, 800, function(){
+            window.location.hash = hash;
+          });
+        } 
+      });
 
           /*START GOOGLE MAP*/
           function initialize() {
