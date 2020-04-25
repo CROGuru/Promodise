@@ -71,12 +71,12 @@
     $(function(){
       var typed = new Typed('.typed', {
         strings: ["Online Business", "Data Analytics", "Customer Experience"],
-        typeSpeed: 38,
-        startDelay: 1200,
-        backSpeed: 38,
-        backDelay: 500,
+        typeSpeed: 48,
+        startDelay: 1100,
+        backSpeed: 42,
+        backDelay: 1100,
         loop: true,
-        loopCount: 5,
+        loopCount: 10,
         showCursor: false,
         cursorChar: "|"
       });
