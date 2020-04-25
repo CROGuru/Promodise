@@ -534,6 +534,8 @@
 	  line-height: 45px;
 	  width: 725px;
 	  font-size: 40px;
+	  margin-top: 10px;
+	  margin-bottom: 10px;
 	}
 
 	.banner-content .subtitle {
@@ -584,13 +586,13 @@
 	}
 
 	.bannerimg {
-		/* background: url("../images/banner/Freecall.png") no-repeat 200px 0%; */
-		/* position:relative */
-		z-index: 100%;
+	  /* background: url("../images/banner/Freecall.png") no-repeat 200px 0%; */
+	  /* position:relative */
+	  z-index: 100%;
 	  overflow: auto;
-		width:340px;
+	  width:340px;
 	  height:100px;
-	  margin-left:320px;
+	  margin-left:310px;
 	}
 
 	.section-heading h2 {
@@ -599,7 +601,7 @@
 	}
 
 	/* =======================================
-	INner Pages
+	Inner Pages
 	=========================================*/
 	#page-banner {
 	  position: relative;
@@ -681,14 +683,14 @@
 
 	.about-bg-img {
 	  position: absolute;
-	  right: 650px;
+	  right: 8%;
 	  content: "";
-	  background: url("../images/banner/AnalyticsGuru.png") 50% 50% no-repeat;
+	  background: url("../images/banner/AnalyticsGuru.png") right 10% / 90% no-repeat;
 	  width: 40%;
 	  height: 100%;
 	  max-height: 400px;
 	  max-width:400px;
-	  top: 0px;
+	  top: 30px;
 	}
 
 	.about-content {
@@ -738,10 +740,10 @@
 
 	.about-bg-img2 {
 	  position: absolute;
-	  left: 400px;
+	  left: 10px;
 	  content: "";
 	  background: url("../images/banner/Checkout.png") 50% 50% no-repeat;
-	  width: 40%;
+	  width: 41%;
 	  height: 100%;
 	  max-height: 560px;
 	  top: 0px;
