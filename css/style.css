@@ -585,13 +585,13 @@
 	}
 
 	.bannerimg {
-	  /* background: url("../images/banner/Freecall.png") no-repeat 200px 0%; */
+	  /* background: url("../images/banner/Arrow1.png") no-repeat 200px 0%; */
 	  /* position:relative */
 	  z-index: 100%;
 	  overflow: auto;
-	  width:340px;
+	  width:500x;
 	  height:100px;
-	  margin-left:310px;
+	  margin-left:400px;
 	}
 
 	.section-heading h2 {
