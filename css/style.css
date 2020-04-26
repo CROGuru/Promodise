@@ -585,13 +585,13 @@
 	}
 
 	.bannerimg {
-	  /* background: url("../images/banner/Arrow1.png") no-repeat 200px 0%; */
+	  /* background: url("../images/banner/Freecall.png") no-repeat 200px 0%; */
 	  /* position:relative */
 	  z-index: 100%;
 	  overflow: auto;
-	  width:500x;
+	  width:340px;
 	  height:100px;
-	  margin-left:550px;
+	  margin-left:310px;
 	}
 
 	.section-heading h2 {
@@ -1177,6 +1177,14 @@
 	}
 
 	input[type=text], input[type=email] {
+	  height: 50px;
+	}
+	
+	input[type=URL], input[type=URL] {
+	  height: 50px;
+	}
+	
+	input[type=tel], input[type=tel] {
 	  height: 50px;
 	}
 
