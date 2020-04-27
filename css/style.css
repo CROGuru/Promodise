@@ -709,6 +709,11 @@
 	  margin-top: 30px;
 	}
 
+	.about-listvalues {
+	  margin-top: 30px;
+	  data-columns="2"	
+	}
+
 	.about-list li {
 	  width: 45%;
 	  float: left;
