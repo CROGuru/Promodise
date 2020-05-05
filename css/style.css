@@ -672,7 +672,7 @@
 	}
 
 	.section-pb {
-	  padding-bottom: 90px;
+	  padding-bottom: 80px;
 	}
 
 	#about {
@@ -687,8 +687,7 @@
 	  background: url("../images/banner/Image 2.png") 50% 50% no-repeat;
 	  width: 40%;
 	  height: 100%;
-	  max-height: 400px;
-	  max-width:400px;
+	  max-height: 560px;
 	  top: 30px;
 	}
 
@@ -739,7 +738,7 @@
 
 	#aboutflip {
 	  position: relative;
-	  padding-bottom: 60px;
+	  padding-bottom: 40px;
 	}
 
 	.about-bg-img2 {
@@ -747,9 +746,9 @@
 	  left: 10px;
 	  content: "";
 	  background: url("../images/banner/Image 1.png") 50% 50% no-repeat;
-	  width: 40%;
+	  width: 41%;
 	  height: 100%;
-	  max-height: 400px;
+	  max-height: 560px;
 	  top: 0px;
 	}
 
