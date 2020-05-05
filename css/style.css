@@ -682,7 +682,7 @@
 
 	.about-bg-img {
 	  position: absolute;
-	  right: 8%;
+	  float: right;
 	  content: "";
 	  background: url("../images/banner/Data.jpg") 50% 50% no-repeat;
 	  width: 100%;
