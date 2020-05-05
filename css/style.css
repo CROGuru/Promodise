@@ -685,7 +685,7 @@
 	  right: 8%;
 	  content: "";
 	  background: url("../images/banner/Mountain.jpg") 50% 50% no-repeat;
-	  width: 40%;
+	  width: 100%;
 	  height: auto;
 	  max-height: 500px;
 	  top: 30px;
