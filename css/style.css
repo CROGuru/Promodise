@@ -685,7 +685,7 @@
 	  right: 8%;
 	  content: "";
 	  background: url("../images/banner/Mountain.jpg") 50% 50% no-repeat;
-	  width: auto;
+	  width: 40%;
 	  height: auto;
 	  max-height: 500px;
 	  top: 30px;
@@ -746,7 +746,7 @@
 	  left: 10px;
 	  content: "";
 	  background: url("../images/banner/Data.jpg") 50% 50% no-repeat;
-	  width: auto;
+	  width: 40%%;
 	  height: auto;
 	  max-height: 500px;
 	  top: 0px;
