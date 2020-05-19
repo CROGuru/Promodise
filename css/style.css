@@ -689,7 +689,7 @@
 	  float: right;
 	  content: "";
 	  background: url("../images/banner/Data.jpg") 50% 50% no-repeat;
-	  width: 100%;
+	  width: 50%;
 	  height: 100%;
 	  max-height: 500px;
 	  top: 30px;
@@ -750,7 +750,7 @@
 	  float: left;
 	  content: "";
 	  background: url("../images/banner/Mountain.jpg") 50% 50% no-repeat;
-	  width: 40%;
+	  width: 50%;
 	  height: 100%;
 	  max-height: 500px;
 	  top: 0px;
