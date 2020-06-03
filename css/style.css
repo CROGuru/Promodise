@@ -1747,7 +1747,7 @@
 	    margin-left: 100px;
 	  }
 	  .ct-btn-scroll {
-	  	bottom: -38px !important;
+	  	bottom: 0px !important;
 	  	right: 0px !important;
 	  }
 	  /*----------------
