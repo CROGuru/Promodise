@@ -160,32 +160,35 @@ The second you stop optimising, you don’t just stagnate, you allow the competi
                                 </div>
                             </div>
 
-                            <div class="mt-5 mb-3">
-                                <h3 class="mt-5 mb-2">Leave a comment</h3>
-                                <p class="mb-4">We don't spam at your inbox.</p>
-                                <form action="#" class="row">
-                                    <div class="col-lg-12">
-                                        <div class="form-group mb-3">
-                                            <textarea cols="30" rows="6" class="form-control"  placeholder="Message"></textarea>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6">
-                                        <div class="form-group mb-3">
-                                            <input type="text" class="form-control" placeholder="Name">
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-6">
-                                        <div class="form-group mb-4">
-                                            <input type="email" class="form-control" placeholder="Email">
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-12">
-                                        <a href="#" class="btn btn-hero btn-circled">Send a message</a>
-                                    </div>
-                                </form>
+                <form class="contact__form" action="https://formspree.io/jonjamesphillips@hotmail.com" method="POST">
+                    <!-- form message -->
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="alert alert-success contact__msg" style="display: none" role="alert">
+                                Great! We've received your message and will be in touch short shortly.
                             </div>
+                        </div>
+                    </div>
+                    <!-- end message -->
+                    <div class="row">
+                        <div class="col-md-6 form-group">
+                            <input name="name" type="text" class="form-control" placeholder="Name" required>
+                        </div>
+                        <div class="col-md-6 form-group">
+                            <input name="tel" type="tel" class="form-control" placeholder="Contact Number" required>
+                        </div>
+                        <div class="col-md-12 form-group">
+                            <input name="email" type="email" class="form-control" placeholder="Email" required>
+                        </div>
+                        <div class="col-md-12 form-group">
+                            <input type="url" name="URL" type="URL" class="form-control" placeholder="Website URL - Optional">
+                        </div>
+                        <div class="col-12 mt-4">
+                            <input name="submit" type="submit" class=" btn btn-hero btn-circled" value="Talk to a CRO Expert">
+                        </div>
+                    </div>
+                </form>
+            </div>
                         </div>
                     </div>
             </div>
