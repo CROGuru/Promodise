@@ -146,7 +146,7 @@
 	}
 
 	.section-padding {
-	  padding: 90px 0px;
+	  padding: 0px 0px;
 	}
 	
 	.pricing-padding {
@@ -1543,7 +1543,7 @@
 	}
 	#service-page .section-padding
 	{
-		padding: 0px 0px;
+		padding: 70px 0px;
 	}
 	  /*--------------
 		 COUNTER
