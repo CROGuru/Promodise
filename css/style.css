@@ -145,8 +145,12 @@
 	  margin-bottom: 30px;
 	}
 
-	.section-padding {
+	.section-index-padding {
 	  padding: 0px 0px;
+	}
+
+	.section-padding {
+	  padding: 70px 0px;
 	}
 	
 	.pricing-padding {
