@@ -154,7 +154,7 @@
 	}
 	
 	.pricing-padding {
-		padding: 250px 0px:
+		padding: 250px 0px;
 	}
 
 	.section-heading {
@@ -718,7 +718,7 @@
 
 	.about-listvalues {
 	  margin-top: 30px;
-	  data-columns="2"	
+
 	}
 
 	.about-list li {
@@ -825,7 +825,7 @@
 	  width: 200px;
 	}
 	.img-banner img {
-	  width: 2000px:
+	  width: 2000px;
 	}
 
 	/* ========================
@@ -1074,14 +1074,13 @@
 
 	.pricing-block:hover i {
 	  background-image: -webkit-linear-gradient(135deg, #2f1ce0 0%, #53a0fd 50%, #51eca5 100%);
-	  background-iamge: -linear-gradient(135deg, #2f1ce0 0%, #53a0fd 50%, #51eca5 100%);
 	  color: #f5f8ff;
 	  border: 1px solid #53a0fd;
 	}
 
 	.pricing-block:hover,
 	.pricing-block.active {
-	  background: ##fff;
+	  background: #fff;
 	  box-shadow: 0 2px 48px 0 rgba(255, 255, 255);
 	  border: 1px solid #fff;		
 	}
