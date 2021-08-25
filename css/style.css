@@ -68,7 +68,30 @@
 	  margin-bottom: 0px;
 	  color: #232323;
 	}
+	.header-white {
+		position: fixed;
+		top: 0px;
+		background: #302f6d;
+		z-index: 9999;
+		width: 100%;
+		left: 0;
+		transition: all .5s ease 0s;
+		color: #302f6d !important;
+	}
+	.trans-navigation.header-white {
+	  background: #111;
+	}
+	.trans-navigation.header-white .navbar-nav .nav-link {
+	  color: #fff;
+	}
 
+	.trans-navigation.header-white .navbar-nav a.active {
+	  color: #302f6d;
+	}
+	.trans-navigation.header-white .btn-white {
+	  background: #302f6d;
+	  color: #fff;
+	}
 	a {
 	  text-decoration: none;
 	  transition: all 0.2s;
